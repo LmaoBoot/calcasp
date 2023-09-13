@@ -1,0 +1,85 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<html>
+
+    <form method="post" action="/Calculator/Index">
+        <table id="calcu">
+            <tr>
+                <td colspan="4">
+                <div class="containerShadow">
+                <div class="outputContainer">
+
+                    <p class="recentCalc" id="recentcalc"></p>
+                    <input class="inputBox" type="text" id="result">
+                </div>
+                </div>
+                </td>
+                
+            </tr>
+        <tr>
+            <td colspan=4>
+            <input class="aniButton" type="button" value="Clear">
+            </td>
+            </tr>
+            
+            <tr>
+                <td><input class="aniButton" type="button" value="1"></td>
+                <td><input class="aniButton" type="button" value="2"></td>
+                <td><input class="aniButton" type="button" value="3"></td>
+                <td><input class="aniButton" type="button" value="/"></td>
+            </tr>
+            <tr>
+                <td><input class="aniButton" type="button" value="4"></td>
+                <td><input class="aniButton" type="button" value="5"></td>
+                <td><input class="aniButton" type="button" value="6"></td>
+                <td><input class="aniButton" type="button" value="*"></td>
+            </tr>
+            <tr>
+                <td><input class="aniButton" type="button" value="7"></td>
+                <td><input class="aniButton" type="button" value="8"></td>
+                <td><input class="aniButton" type="button" value="9"></td>
+                <td><input class="aniButton" type="button" value="-"></td>
+            </tr>
+            <tr>
+                <td><input class="aniButton" type="button" value="0"></td>
+                <td><input class="aniButton" type="button" value="."></td>
+                <td><input class="aniButton" type="submit" value="="></td>
+                <td><input class="aniButton" type="button" value="+"></td>
+            </tr>
+        </table>
+    </form>
+
+@section scripts {
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            var buttons = document.querySelectorAll(".aniButton");
+            var textBox = document.getElementById("result");
+
+            buttons.forEach(function (button) {
+                button.addEventListener("click", function () {
+                    if (button.value === "=") {
+                        // When "=" is pressed, send the expression to the server for calculation
+                        var expression = textBox.value;
+
+                        $.ajax({
+                            type: "POST",
+                            url: "/Calculator/Calculate",
+                            data: { expression: expression },
+                            success: function (data) {
+                                textBox.value = data.result;
+                            },
+                            error: function () {
+                                textBox.value = "Error";
+                            }
+                        });
+                    } else {
+                        // Append the button value to the text box
+                        textBox.value += button.value;
+                    }
+                });
+            });
+        });
+    </script>
+}
+</html>

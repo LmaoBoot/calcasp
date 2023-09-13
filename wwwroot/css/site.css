@@ -1,0 +1,94 @@
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  background-color:rgb(20,20,20);
+}
+
+table {
+  border-radius:15px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(38,38,38);
+  border-spacing: 0px;
+  margin: 100px auto;
+  border-spacing: 12px;
+  padding-bottom:5px;
+  border-collapse: separate;
+  overflow: hidden;
+  position: relative;
+}
+
+
+input[type="button"] {
+  width: 100%;
+  padding: 15px 20px;
+  background-color: rgb(30,30,30);
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0px 5px 5px rgb(25,25,25);
+}
+
+.aniButton {
+transition: background-color 0.3s ease;
+}
+
+.aniButton:active {
+  background-color: rgb(60,50,70);
+  transform: scale(0.95); /* Scale down when clicked */
+  transition: background-color 0.1s ease, transform 0.1s ease; /* Add a quick transition for the click effect */
+}
+.aniButton:hover:not(:active) {
+  background-color: rgb(50,50,50);
+}
+input[type="text"] {
+  height:50px;
+  width:90%;
+  font-size: 24px;
+  font-weight: bold;
+  border: none;
+  text-align:right;
+  color:white;
+}
+
+.outputContainer {
+  height:150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 0px 0px 20px 0px;
+  align-items: center;
+  
+}
+
+.recentCalc {
+  text-align: right;
+  color: white;
+}
+
+.inputBox {
+  background-color: rgb(30, 30, 30);
+  border-radius: 10px;
+  /* Center the inputBox horizontally */
+  
+  /* Adjust padding as needed */
+}
+
+.outputContainer p {
+  width:90%;
+}
+.containerShadow {
+  width: calc(100% + 24px);
+  margin-left: -12px;
+  margin-bottom: 5px;
+  background-color: rgb(30,30,30);
+  margin-top: -13px;
+  box-shadow: 0px 8px 5px rgb(25,25,25);
+  
+}

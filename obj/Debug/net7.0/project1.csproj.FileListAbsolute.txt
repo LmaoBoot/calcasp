@@ -1,0 +1,155 @@
+C:\Users\16043\Desktop\ASP\project1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\16043\Desktop\ASP\project1\bin\Debug\net7.0\appsettings.json
+C:\Users\16043\Desktop\ASP\project1\bin\Debug\net7.0\project1.staticwebassets.runtime.json
+C:\Users\16043\Desktop\ASP\project1\bin\Debug\net7.0\project1.exe
+C:\Users\16043\Desktop\ASP\project1\bin\Debug\net7.0\project1.deps.json
+C:\Users\16043\Desktop\ASP\project1\bin\Debug\net7.0\project1.runtimeconfig.json
+C:\Users\16043\Desktop\ASP\project1\bin\Debug\net7.0\project1.dll
+C:\Users\16043\Desktop\ASP\project1\bin\Debug\net7.0\project1.pdb
+C:\Users\16043\Desktop\ASP\project1\obj\Debug\net7.0\project1.csproj.AssemblyReference.cache
+C:\Users\16043\Desktop\ASP\project1\obj\Debug\net7.0\project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16043\Desktop\ASP\project1\obj\Debug\net7.0\project1.AssemblyInfoInputs.cache
+C:\Users\16043\Desktop\ASP\project1\obj\Debug\net7.0\project1.AssemblyInfo.cs
+C:\Users\16043\Desktop\ASP\project1\obj\Debug\net7.0\project1.csproj.CoreCompileInputs.cache
+C:\Users\16043\Desktop\ASP\project1\obj\Debug\net7.0\project1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\16043\Desktop\ASP\project1\obj\Debug\net7.0\project1.RazorAssemblyInfo.cache
+C:\Users\16043\Desktop\ASP\project1\obj\Debug\net7.0\project1.RazorAssemblyInfo.cs
+C:\Users\16043\Desktop\ASP\project1\obj\Debug\net7.0\staticwebassets\msbuild.project1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\16043\Desktop\ASP\project1\obj\Debug\net7.0\staticwebassets\msbuild.build.project1.props
+C:\Users\16043\Desktop\ASP\project1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.project1.props
+C:\Users\16043\Desktop\ASP\project1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.project1.props
+C:\Users\16043\Desktop\ASP\project1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\16043\Desktop\ASP\project1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\16043\Desktop\ASP\project1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\16043\Desktop\ASP\project1\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\16043\Desktop\ASP\project1\obj\Debug\net7.0\scopedcss\bundle\project1.styles.css
+C:\Users\16043\Desktop\ASP\project1\obj\Debug\net7.0\scopedcss\projectbundle\project1.bundle.scp.css
+C:\Users\16043\Desktop\ASP\project1\obj\Debug\net7.0\project1.dll
+C:\Users\16043\Desktop\ASP\project1\obj\Debug\net7.0\refint\project1.dll
+C:\Users\16043\Desktop\ASP\project1\obj\Debug\net7.0\project1.pdb
+C:\Users\16043\Desktop\ASP\project1\obj\Debug\net7.0\project1.genruntimeconfig.cache
+C:\Users\16043\Desktop\ASP\project1\obj\Debug\net7.0\ref\project1.dll
+C:\Users\16043\Desktop\ASP\project3\obj\Debug\net7.0\project1.csproj.AssemblyReference.cache
+C:\Users\16043\Desktop\ASP\project3\obj\Debug\net7.0\project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16043\Desktop\ASP\project3\obj\Debug\net7.0\project1.AssemblyInfoInputs.cache
+C:\Users\16043\Desktop\ASP\project3\obj\Debug\net7.0\project1.AssemblyInfo.cs
+C:\Users\16043\Desktop\ASP\project3\obj\Debug\net7.0\project1.csproj.CoreCompileInputs.cache
+C:\Users\16043\Desktop\ASP\project3\obj\Debug\net7.0\project1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\16043\Desktop\ASP\project3\obj\Debug\net7.0\project1.RazorAssemblyInfo.cache
+C:\Users\16043\Desktop\ASP\project3\obj\Debug\net7.0\project1.RazorAssemblyInfo.cs
+C:\Users\16043\Desktop\ASP\project3\obj\Debug\net7.0\project1.dll
+C:\Users\16043\Desktop\ASP\project3\obj\Debug\net7.0\refint\project1.dll
+C:\Users\16043\Desktop\ASP\project3\obj\Debug\net7.0\project1.pdb
+C:\Users\16043\Desktop\ASP\project3\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\16043\Desktop\ASP\project3\bin\Debug\net7.0\appsettings.json
+C:\Users\16043\Desktop\ASP\project3\bin\Debug\net7.0\project1.staticwebassets.runtime.json
+C:\Users\16043\Desktop\ASP\project3\bin\Debug\net7.0\project1.exe
+C:\Users\16043\Desktop\ASP\project3\bin\Debug\net7.0\project1.deps.json
+C:\Users\16043\Desktop\ASP\project3\bin\Debug\net7.0\project1.runtimeconfig.json
+C:\Users\16043\Desktop\ASP\project3\bin\Debug\net7.0\project1.dll
+C:\Users\16043\Desktop\ASP\project3\bin\Debug\net7.0\project1.pdb
+C:\Users\16043\Desktop\ASP\project3\obj\Debug\net7.0\staticwebassets\msbuild.project1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\16043\Desktop\ASP\project3\obj\Debug\net7.0\staticwebassets\msbuild.build.project1.props
+C:\Users\16043\Desktop\ASP\project3\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.project1.props
+C:\Users\16043\Desktop\ASP\project3\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.project1.props
+C:\Users\16043\Desktop\ASP\project3\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\16043\Desktop\ASP\project3\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\16043\Desktop\ASP\project3\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\16043\Desktop\ASP\project3\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\16043\Desktop\ASP\project3\obj\Debug\net7.0\scopedcss\bundle\project1.styles.css
+C:\Users\16043\Desktop\ASP\project3\obj\Debug\net7.0\scopedcss\projectbundle\project1.bundle.scp.css
+C:\Users\16043\Desktop\ASP\project3\obj\Debug\net7.0\project1.genruntimeconfig.cache
+C:\Users\16043\Desktop\ASP\project3\obj\Debug\net7.0\ref\project1.dll
+C:\Users\16043\Desktop\ASP\project5\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\16043\Desktop\ASP\project5\bin\Debug\net7.0\appsettings.json
+C:\Users\16043\Desktop\ASP\project5\bin\Debug\net7.0\project1.staticwebassets.runtime.json
+C:\Users\16043\Desktop\ASP\project5\bin\Debug\net7.0\project1.exe
+C:\Users\16043\Desktop\ASP\project5\bin\Debug\net7.0\project1.deps.json
+C:\Users\16043\Desktop\ASP\project5\bin\Debug\net7.0\project1.runtimeconfig.json
+C:\Users\16043\Desktop\ASP\project5\bin\Debug\net7.0\project1.dll
+C:\Users\16043\Desktop\ASP\project5\bin\Debug\net7.0\project1.pdb
+C:\Users\16043\Desktop\ASP\project5\obj\Debug\net7.0\project1.csproj.AssemblyReference.cache
+C:\Users\16043\Desktop\ASP\project5\obj\Debug\net7.0\project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16043\Desktop\ASP\project5\obj\Debug\net7.0\project1.AssemblyInfoInputs.cache
+C:\Users\16043\Desktop\ASP\project5\obj\Debug\net7.0\project1.AssemblyInfo.cs
+C:\Users\16043\Desktop\ASP\project5\obj\Debug\net7.0\project1.csproj.CoreCompileInputs.cache
+C:\Users\16043\Desktop\ASP\project5\obj\Debug\net7.0\project1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\16043\Desktop\ASP\project5\obj\Debug\net7.0\project1.RazorAssemblyInfo.cache
+C:\Users\16043\Desktop\ASP\project5\obj\Debug\net7.0\project1.RazorAssemblyInfo.cs
+C:\Users\16043\Desktop\ASP\project5\obj\Debug\net7.0\staticwebassets\msbuild.project1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\16043\Desktop\ASP\project5\obj\Debug\net7.0\staticwebassets\msbuild.build.project1.props
+C:\Users\16043\Desktop\ASP\project5\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.project1.props
+C:\Users\16043\Desktop\ASP\project5\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.project1.props
+C:\Users\16043\Desktop\ASP\project5\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\16043\Desktop\ASP\project5\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\16043\Desktop\ASP\project5\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\16043\Desktop\ASP\project5\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\16043\Desktop\ASP\project5\obj\Debug\net7.0\scopedcss\bundle\project1.styles.css
+C:\Users\16043\Desktop\ASP\project5\obj\Debug\net7.0\scopedcss\projectbundle\project1.bundle.scp.css
+C:\Users\16043\Desktop\ASP\project5\obj\Debug\net7.0\project1.dll
+C:\Users\16043\Desktop\ASP\project5\obj\Debug\net7.0\refint\project1.dll
+C:\Users\16043\Desktop\ASP\project5\obj\Debug\net7.0\project1.pdb
+C:\Users\16043\Desktop\ASP\project5\obj\Debug\net7.0\project1.genruntimeconfig.cache
+C:\Users\16043\Desktop\ASP\project5\obj\Debug\net7.0\ref\project1.dll
+C:\Users\16043\Desktop\ASP\project6\obj\Debug\net7.0\project1.csproj.AssemblyReference.cache
+C:\Users\16043\Desktop\ASP\project6\obj\Debug\net7.0\project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16043\Desktop\ASP\project6\obj\Debug\net7.0\project1.AssemblyInfoInputs.cache
+C:\Users\16043\Desktop\ASP\project6\obj\Debug\net7.0\project1.AssemblyInfo.cs
+C:\Users\16043\Desktop\ASP\project6\obj\Debug\net7.0\project1.csproj.CoreCompileInputs.cache
+C:\Users\16043\Desktop\ASP\project6\obj\Debug\net7.0\project1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\16043\Desktop\ASP\project6\obj\Debug\net7.0\project1.RazorAssemblyInfo.cache
+C:\Users\16043\Desktop\ASP\project6\obj\Debug\net7.0\project1.RazorAssemblyInfo.cs
+C:\Users\16043\Desktop\ASP\project6\obj\Debug\net7.0\project1.dll
+C:\Users\16043\Desktop\ASP\project6\obj\Debug\net7.0\refint\project1.dll
+C:\Users\16043\Desktop\ASP\project6\obj\Debug\net7.0\project1.pdb
+C:\Users\16043\Desktop\ASP\project6\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\16043\Desktop\ASP\project6\bin\Debug\net7.0\appsettings.json
+C:\Users\16043\Desktop\ASP\project6\bin\Debug\net7.0\project1.staticwebassets.runtime.json
+C:\Users\16043\Desktop\ASP\project6\bin\Debug\net7.0\project1.exe
+C:\Users\16043\Desktop\ASP\project6\bin\Debug\net7.0\project1.deps.json
+C:\Users\16043\Desktop\ASP\project6\bin\Debug\net7.0\project1.runtimeconfig.json
+C:\Users\16043\Desktop\ASP\project6\bin\Debug\net7.0\project1.dll
+C:\Users\16043\Desktop\ASP\project6\bin\Debug\net7.0\project1.pdb
+C:\Users\16043\Desktop\ASP\project6\obj\Debug\net7.0\staticwebassets\msbuild.project1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\16043\Desktop\ASP\project6\obj\Debug\net7.0\staticwebassets\msbuild.build.project1.props
+C:\Users\16043\Desktop\ASP\project6\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.project1.props
+C:\Users\16043\Desktop\ASP\project6\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.project1.props
+C:\Users\16043\Desktop\ASP\project6\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\16043\Desktop\ASP\project6\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\16043\Desktop\ASP\project6\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\16043\Desktop\ASP\project6\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\16043\Desktop\ASP\project6\obj\Debug\net7.0\scopedcss\bundle\project1.styles.css
+C:\Users\16043\Desktop\ASP\project6\obj\Debug\net7.0\scopedcss\projectbundle\project1.bundle.scp.css
+C:\Users\16043\Desktop\ASP\project6\obj\Debug\net7.0\project1.genruntimeconfig.cache
+C:\Users\16043\Desktop\ASP\project6\obj\Debug\net7.0\ref\project1.dll
+C:\Users\16043\Desktop\ASP\project6 copy\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\16043\Desktop\ASP\project6 copy\bin\Debug\net7.0\appsettings.json
+C:\Users\16043\Desktop\ASP\project6 copy\bin\Debug\net7.0\project1.staticwebassets.runtime.json
+C:\Users\16043\Desktop\ASP\project6 copy\bin\Debug\net7.0\project1.exe
+C:\Users\16043\Desktop\ASP\project6 copy\bin\Debug\net7.0\project1.deps.json
+C:\Users\16043\Desktop\ASP\project6 copy\bin\Debug\net7.0\project1.runtimeconfig.json
+C:\Users\16043\Desktop\ASP\project6 copy\bin\Debug\net7.0\project1.dll
+C:\Users\16043\Desktop\ASP\project6 copy\bin\Debug\net7.0\project1.pdb
+C:\Users\16043\Desktop\ASP\project6 copy\obj\Debug\net7.0\project1.csproj.AssemblyReference.cache
+C:\Users\16043\Desktop\ASP\project6 copy\obj\Debug\net7.0\project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16043\Desktop\ASP\project6 copy\obj\Debug\net7.0\project1.AssemblyInfoInputs.cache
+C:\Users\16043\Desktop\ASP\project6 copy\obj\Debug\net7.0\project1.AssemblyInfo.cs
+C:\Users\16043\Desktop\ASP\project6 copy\obj\Debug\net7.0\project1.csproj.CoreCompileInputs.cache
+C:\Users\16043\Desktop\ASP\project6 copy\obj\Debug\net7.0\project1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\16043\Desktop\ASP\project6 copy\obj\Debug\net7.0\project1.RazorAssemblyInfo.cache
+C:\Users\16043\Desktop\ASP\project6 copy\obj\Debug\net7.0\project1.RazorAssemblyInfo.cs
+C:\Users\16043\Desktop\ASP\project6 copy\obj\Debug\net7.0\staticwebassets\msbuild.project1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\16043\Desktop\ASP\project6 copy\obj\Debug\net7.0\staticwebassets\msbuild.build.project1.props
+C:\Users\16043\Desktop\ASP\project6 copy\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.project1.props
+C:\Users\16043\Desktop\ASP\project6 copy\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.project1.props
+C:\Users\16043\Desktop\ASP\project6 copy\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\16043\Desktop\ASP\project6 copy\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\16043\Desktop\ASP\project6 copy\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\16043\Desktop\ASP\project6 copy\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\16043\Desktop\ASP\project6 copy\obj\Debug\net7.0\scopedcss\bundle\project1.styles.css
+C:\Users\16043\Desktop\ASP\project6 copy\obj\Debug\net7.0\scopedcss\projectbundle\project1.bundle.scp.css
+C:\Users\16043\Desktop\ASP\project6 copy\obj\Debug\net7.0\project1.dll
+C:\Users\16043\Desktop\ASP\project6 copy\obj\Debug\net7.0\refint\project1.dll
+C:\Users\16043\Desktop\ASP\project6 copy\obj\Debug\net7.0\project1.pdb
+C:\Users\16043\Desktop\ASP\project6 copy\obj\Debug\net7.0\project1.genruntimeconfig.cache
+C:\Users\16043\Desktop\ASP\project6 copy\obj\Debug\net7.0\ref\project1.dll
